@@ -10,6 +10,8 @@ header{
     height: 50px;
 }
 
+
+
 section, main{
     width: 100%;
     border: solid 1px red;
@@ -18,5 +20,37 @@ section, main{
 
 ul{
     list-style-type:none;
+    
+}
+/* Removes blue hyperlink and underline on hyperlink */
+a:link{
+    color:black;
+    text-decoration: none;
+}
+
+#left-upper{
+    width: 45%;
+    border: solid 1px red;
+    height: 400px;
+}
+
+div{
+    width: 100%;
+    border: solid #5B6DCD 1px;
+    padding: 5px;
+    height: 50px;
+    display:inline;
+
+}
+
+li, div>h2{
+    display:inline;
+
+}
+
+.right-top, .left-top{
+    border: solid #5B6DCD 1px;
+    width: 25%;
+    height: 200px;
 }
 
