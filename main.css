@@ -39,6 +39,16 @@ a{
 .leftnav{
     margin-right: 50px;
 }
+.tnav{
+    border-right: 1px solid white;
+    padding-right:90px;
+}
+
+.rnav{
+    float:right;
+    margin-right: 100px;
+
+}
 
 #wel{
     float:left;
@@ -88,7 +98,7 @@ li{
 section{
 
   width:100%;
-  height:550px;
+  height:500px;
   float:left;
   padding:1em;
 }
