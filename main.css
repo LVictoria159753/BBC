@@ -92,6 +92,7 @@ li{
 .a, .b, .c{
     float: left;
     width: 33%;
+    border: 5px solid white;
 
 }
 
