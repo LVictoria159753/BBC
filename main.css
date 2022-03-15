@@ -28,25 +28,28 @@ li{
 a:link{
     color:rgb(238, 229, 229);
     text-decoration: none;
-    padding: 10px 20px;
+    padding: 10px 30px;
 
 }
 a{
     color:white;
-    border-left:1px solid white;
+    border-right:1px solid white;
 }
 
 .leftnav{
-    margin-right: 50px;
+padding:10px
+    
 }
 .tnav{
     border-right: 1px solid white;
-    padding-right:90px;
+    
+
 }
 
 .rnav{
     float:right;
-    margin-right: 100px;
+    margin-right: 10px;
+
 
 }
 
